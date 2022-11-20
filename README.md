@@ -1,2 +1,1 @@
 # IET-Autumn-School
-IET
